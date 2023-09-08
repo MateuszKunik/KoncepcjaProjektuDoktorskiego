@@ -3,6 +3,7 @@ Koncepcja projektu doktorskiego zatytułowana: Optymalizacja czasu procesu infer
 
 
 **Mateusz Kunik **
+
 ** Optymalizacja czasu procesu inferencji modeli bazowych na przykładzie modeli dyfuzyjnych**
 
 *Streszczenie:*
